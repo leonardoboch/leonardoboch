@@ -1,107 +1,125 @@
+<div align="center">
 
-## 👋 Hi, I’m Leonardo Bochnia
+# Olá, eu sou o Leonardo Bochnia 👋
 
-![profile-gif](https://user-images.githubusercontent.com/43247181/197641572-124ab4d3-5251-4cbc-84dc-2b14121b6fd7.gif)
+<a href="https://github.com/leonardoboch">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F9DDE&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;Java+%7C+Spring+Boot+%7C+NestJS+%7C+VueJS;Automa%C3%A7%C3%A3o+de+Neg%C3%B3cios+com+IA+e+RAG;Curitiba+-+PR%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+</a>
 
-### Software Engineer | Business Automation Lead  
-Information Systems Student at UTFPR (Brazil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bochnia/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bochnialeonardo@gmail.com)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://leonardoboch.github.io/html-cv/)
 
----
-
-## 🚀 About Me
-
-I am a Software Engineer currently working at **Exati Tecnologia**, where I lead initiatives in **Business Automation**, focusing on data-driven systems, internal tooling, and process optimization.
-
-My work involves designing and maintaining scalable back-end solutions, database modeling, and automation pipelines that support real-world applications in smart cities and enterprise systems.
+</div>
 
 ---
 
-## 💻 Technical Skills
+## 🚀 Sobre mim
 
-- **Languages:** JavaScript, TypeScript, SQL, Java  
-- **Back-end:** Node.js, NestJS, Knex.js  
-- **Front-end:** Vue.js, React.js  
-- **Databases:** PostgreSQL  
-- **Automation & Tools:** n8n, Directus, Docker, Git  
-- **Academic & Low-level Experience:** C, C++, Assembly, Python  
-- **Operating Systems:** Linux (primary), Windows  
+Sou **Desenvolvedor FullStack** e atuo como **Analista Pleno na [Exati Tecnologia](https://www.exati.com.br/)**, empresa de soluções para gestão de cidades inteligentes. Bacharel em **Sistemas de Informação pela UTFPR**.
 
----
+Comecei na Exati como estagiário, migrando o frontend do ERP de **Flash para VueJS**, e desde então passei por desenvolvimento de módulos do ERP, melhorias no módulo financeiro e migrações de banco de dados. Hoje:
 
-## 📚 Currently Learning
-
-- Advanced database modeling and performance optimization (PostgreSQL)
-- AI-assisted automation and RAG-based systems
-- Python for data processing and intelligent automation
-- Foundations of theoretical computer science and algorithms (for academic research)
+- 🤖 Faço parte do time de **Business Automation**, aplicando **IA e RAG** em projetos de teste e automação
+- 📚 Lidero o time de **documentação técnica e treinamento**
+- 🗂️ Faço **modelagem de dados** e das relações entre setores internos da empresa
+- 🐍 Desenvolvo **migrações de dados entre softwares com Python**
 
 ---
 
-## 🎮 Hobbies & Interests
+## 🛠️ Stack
 
-In my free time, I enjoy playing games—especially retro games—watching movies and TV shows.  
-Some personal favorites include *The Shining* and *Breaking Bad*.
+<div align="center">
 
----
+**Linguagens & Back-end**
 
-## 📫 How to Reach Me
+[![Back-end](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,nestjs,python&perline=7)](https://skillicons.dev)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bochnia-b27005155/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bochnialeonardo@gmail.com)
+**Front-end**
 
----
+[![Front-end](https://skillicons.dev/icons?i=vue,react,html,css&perline=7)](https://skillicons.dev)
 
-⭐ Feel free to explore my repositories and projects below.
-## 👋 Olá, eu sou o Leonardo Bochnia
+**Banco de dados & Ferramentas**
 
-![profile-gif](https://user-images.githubusercontent.com/43247181/197641572-124ab4d3-5251-4cbc-84dc-2b14121b6fd7.gif)
+[![Tools](https://skillicons.dev/icons?i=postgres,prisma,docker,git,gitlab,postman,linux&perline=7)](https://skillicons.dev)
 
-### Engenheiro de Software | Líder de Automação de Negócios  
-Graduando em Sistemas de Informação — UTFPR
+**Automação & IA**
 
----
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-263238?style=flat-square&logo=directus&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_File_Search-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-555555?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-CC0000?style=flat-square)
 
-## 🚀 Sobre Mim
+**Base acadêmica / baixo nível:** C · C++ · Assembly
 
-Sou Engenheiro de Software na **Exati Tecnologia**, atuando como líder na área de **Business Automation**, com foco em automação de processos, sistemas orientados a dados e ferramentas internas.
-
-Trabalho principalmente com soluções back-end escaláveis, modelagem de banco de dados e pipelines de automação aplicados a cenários reais, como sistemas corporativos e soluções para cidades inteligentes.
-
----
-
-## 💻 Habilidades Técnicas
-
-- **Linguagens:** JavaScript, TypeScript, SQL, Java  
-- **Back-end:** Node.js, NestJS, Knex.js  
-- **Front-end:** Vue.js, React.js  
-- **Banco de Dados:** PostgreSQL  
-- **Automação & Ferramentas:** n8n, Directus, Docker, Git  
-- **Experiência Acadêmica / Baixo Nível:** C, C++, Assembly, Python  
-- **Sistemas Operacionais:** Linux (principal), Windows  
+</div>
 
 ---
 
-## 📚 Atualmente Estudando
+## 💼 Trajetória
 
-- Modelagem avançada e otimização de desempenho em PostgreSQL
-- Automação inteligente com apoio de IA e RAG
-- Python para processamento de dados e automação
-- Fundamentos teóricos de computação e algoritmos (foco acadêmico)
-
----
-
-## 🎮 Interesses Pessoais
-
-No tempo livre, gosto de jogar videogames — especialmente jogos retrô — e assistir filmes e séries.  
-Alguns dos meus favoritos são *O Iluminado* e *Breaking Bad*.
+| Período | Cargo | Empresa |
+|---|---|---|
+| Nov/2023 – atual | Analista Pleno | Exati Tecnologia |
+| Ago/2022 – Nov/2023 | Analista Júnior | Exati Tecnologia |
+| Ago/2020 – Ago/2022 | Estagiário de Desenvolvimento | Exati Tecnologia |
+| Jul/2019 – Jul/2020 | Estagiário | Polícia Científica do Paraná |
 
 ---
 
-## 📫 Como me encontrar
+## 🧪 Projetos pessoais
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bochnia-b27005155/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bochnialeonardo@gmail.com)
+- 💰 **FinLedger** — aplicação de finanças em **Java + Spring Boot**
+- 🔗 **DataBridge** — projeto full-stack de portfólio
+- ⚡ **Pacote DSA em C** — estruturas de dados e algoritmos em **C** expostos como pacote **Node.js**, com demonstração visual de performance
+
+> Veja os repositórios fixados logo abaixo 👇
 
 ---
 
-⭐ Fique à vontade para explorar meus repositórios e projetos abaixo.
+## 📚 Estudando agora
+
+- Modelagem avançada e performance em **PostgreSQL**
+- Automação inteligente com **IA e RAG**
+- **Java/Spring Boot** em arquiteturas de back-end mais robustas
+- Fundamentos teóricos de computação e algoritmos
+
+---
+
+## 🎮 Fora do código
+
+Jogos (principalmente **retrô**), filmes e séries. Alguns favoritos: *O Iluminado* e *Breaking Bad*.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=leonardoboch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoboch&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+
+⭐ Fique à vontade para explorar meus repositórios!
+
+</div>
+
+<details>
+<summary>🇺🇸 <b>English version</b></summary>
+
+<br>
+
+**Full-Stack Developer** at **Exati Tecnologia** (smart city management solutions), Curitiba, Brazil. B.Sc. in Information Systems from UTFPR.
+
+I started as an intern migrating the company's ERP frontend from **Flash to VueJS**, then moved on to ERP module development, financial module improvements and database migrations. Today I:
+
+- 🤖 Work on the **Business Automation** team, applying **AI and RAG** to testing and automation projects
+- 📚 Lead the **technical documentation and training** team
+- 🗂️ Design **data models** for internal departments
+- 🐍 Build **data migrations between systems in Python**
+
+**Main stack:** Java, Spring Boot, JavaScript/TypeScript, Node.js, NestJS, VueJS, React, Python, PostgreSQL, Prisma, Docker.
+
+**Side projects:** FinLedger (Java/Spring Boot finance app), DataBridge (full-stack portfolio project), and a Node.js package with data structures and algorithms written in C.
+
+</details>
