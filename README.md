@@ -53,7 +53,6 @@ Comecei na Exati como estagiário, migrando o frontend do ERP de **Flash para Vu
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![JasperReports](https://img.shields.io/badge/JasperReports-CC0000?style=flat-square)
 
-**Base acadêmica / baixo nível:** C · C++ · Assembly
 
 </div>
 
@@ -72,11 +71,6 @@ Comecei na Exati como estagiário, migrando o frontend do ERP de **Flash para Vu
 
 ## 🧪 Projetos pessoais
 
-- 💰 **FinLedger** — aplicação de finanças em **Java + Spring Boot**
-- 🔗 **DataBridge** — projeto full-stack de portfólio
-- ⚡ **Pacote DSA em C** — estruturas de dados e algoritmos em **C** expostos como pacote **Node.js**, com demonstração visual de performance
-
-> Veja os repositórios fixados logo abaixo 👇
 
 ---
 
